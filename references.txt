@@ -1,0 +1,10 @@
+
+List of references I used for this project:
+
+
+Udacity course: Intro to HTML and CSS
+Udacity course: How to use Git and GitHub
+https://www.udacity.com
+
+
+http://www.w3schools.com/
