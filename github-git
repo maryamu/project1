@@ -1,0 +1,29 @@
+
+
+
+create a new empty repository on local computer: git init
+
+make a .gitignore file with text reader contains: *.DS_Store
+save it in the project folder
+
+
+adding all the files on the local repository:git add -A
+
+
+git commit -m "first commit for project 2"
+
+
+
+create a new empty repository on github
+
+git remote add origin https://github.com/maryamu/project2.git
+git push -u origin master
+
+
+
+
+git status
+
+git add references.txt
+git commit -m "added reference text file"
+git push
